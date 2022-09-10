@@ -1,0 +1,52 @@
+body {
+
+    text-align: center;
+
+}
+
+form > input {
+    background-color: #f0f0f0;
+    border-style: none;
+    height: 40px;
+    width: 310px;
+    font-size: 14px;
+}
+
+form > button {
+    height: 45px;
+    width: 325px;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: #0072ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+
+}
+
+
+
+
+#link{
+    text-decoration: none;
+    font-family: helvetica;
+    color: #4585fb;
+}
+
+footer {
+
+    display: block;
+    padding-top: 280px;
+    color: #8a8e92d5;
+   
+
+}
+
+footer > a {
+
+    text-decoration-line: none;
+    color: #8a8e92d5;;
+
+}
