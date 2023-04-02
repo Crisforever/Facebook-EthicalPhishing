@@ -9,6 +9,7 @@ form > input {
     border-style: none;
     height: 40px;
     width: 310px;
+    padding: 0 1rem;
     font-size: 14px;
 }
 
